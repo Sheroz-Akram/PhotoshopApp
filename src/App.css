@@ -1,0 +1,82 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.image{
+  width: 500px;
+}
+
+.image-container {
+  width: 500px;
+  height: 500px;
+  margin-right: 10px;
+}
+
+.sidebar-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.optBtn {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.optBtn:hover {
+  background-color: #0069d9;
+}
+
+
+
+
+
+.menBtn {
+  background-color: #ca2c00;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.menBtn:hover {
+  background-color: #ad2600;
+}
+
+.menBtn:disabled,
+.menBtn[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+}
+
+
+.yewBtn {
+  background-color: #cab600;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.yewBtn:hover {
+  background-color: #948500;
+}
+
+.yewBtn:disabled,
+.yewBtn[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed;
+}
