@@ -4,7 +4,7 @@ This project is a simple implementation of a photoshop app made in React.
 
 [<kbd> <br> See Demo <br> </kbd>][View]
 
-[View]: http://www.google.com](https://photoshop-sheroz.netlify.app/
+[View]: https://photoshop-sheroz.netlify.app/
 
 ## Screenshot
 
