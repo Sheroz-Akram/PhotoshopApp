@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is a simple implementation of a photoshop app made in React.
+
+[<kbd> <br> See Demo <br> </kbd>][View]
+
+[View]: http://www.google.com](https://photoshop-sheroz.netlify.app/
+
+## Screenshot
+
+![Website Home Page](Images/Home.PNG)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
