@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is create with [Create React App](https://github.com/facebook/create-react-app) from Facebook.
 
 This project is a simple implementation of a photoshop app made in React.
 
